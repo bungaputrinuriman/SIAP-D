@@ -1,21 +1,21 @@
-# 📱 SIAP-D (Sistem Informasi Absensi PKL - DISKOMINFO)
+# SIAP-D (Sistem Informasi Absensi PKL - DISKOMINFO)
 
 **SIAP-D** adalah aplikasi presensi digital terpadu untuk peserta **Praktik Kerja Lapangan (PKL) / Magang** di lingkungan **Dinas Komunikasi dan Informatika (DISKOMINFO)**. Aplikasi ini dirancang untuk mendigitalisasi pencatatan kehadiran secara akurat, transparan, dan aman menggunakan verifikasi berlapis.
 
 ---
 
-## 🌟 Fitur Utama Aplikasi
+## Fitur Utama Aplikasi
 
-- 📍 **Validasi Radius GPS (Geofencing)**: Presensi hanya bisa dilakukan jika peserta berada di area kantor DISKOMINFO (toleransi radius ≤ 100 meter).
-- 📸 **Swafoto (Selfie)**: Wajib melampirkan foto wajah langsung saat presensi masuk dan pulang.
-- ✍️ **Tanda Tangan Digital**: Tanda tangan langsung di layar sebagai bukti validasi kehadiran.
-- 📋 **Pengajuan Izin & Sakit**: Formulir pengajuan izin/sakit dengan rentang tanggal dan keterangan yang otomatis terkirim ke pembimbing.
-- 🔔 **Notifikasi Real-time**: Pembimbing lapangan langsung menerima notifikasi instan saat peserta mengajukan izin/sakit.
-- 📊 **Rekapitulasi & Ekspor Excel**: Admin dapat memfilter kehadiran harian/periode tertentu dan mengunduh laporan dalam format Excel (`.xlsx`).
+- **Validasi Radius GPS (Geofencing)**: Presensi hanya bisa dilakukan jika peserta berada di area kantor DISKOMINFO (toleransi radius ≤ 100 meter).
+- **Swafoto (Selfie)**: Wajib melampirkan foto wajah langsung saat presensi masuk dan pulang.
+- **Tanda Tangan Digital**: Tanda tangan langsung di layar sebagai bukti validasi kehadiran.
+- **Pengajuan Izin & Sakit**: Formulir pengajuan izin/sakit dengan rentang tanggal dan keterangan yang otomatis terkirim ke pembimbing.
+- **Notifikasi Real-time**: Pembimbing lapangan langsung menerima notifikasi instan saat peserta mengajukan izin/sakit.
+- **Rekapitulasi & Ekspor Excel**: Admin dapat memfilter kehadiran harian/periode tertentu dan mengunduh laporan dalam format Excel (`.xlsx`).
 
 ---
 
-## 👥 Peran Pengguna (Roles)
+## Peran Pengguna (Roles)
 
 1. **Peserta PKL**: Melakukan presensi masuk/pulang, mengajukan izin/sakit, dan melihat riwayat kehadiran pribadi.
 2. **Pembimbing Lapangan**: Memantau kehadiran anak bimbingan secara harian, memverifikasi foto & tanda tangan presensi, serta menerima notifikasi izin/sakit.
@@ -23,16 +23,16 @@
 
 ---
 
-## 📖 Panduan Penggunaan Aplikasi
+## Panduan Penggunaan Aplikasi
 
-### 🔑 1. Masuk ke Akun (Login)
+### 1. Masuk ke Akun (Login)
 1. Buka aplikasi **SIAP-D**.
 2. Masukkan **Email** dan **Password** yang telah didaftarkan.
 3. Tekan **Masuk Aplikasi**. Halaman dashboard akan otomatis menyesuaikan peran akun Anda.
 
 ---
 
-### 🎓 2. Panduan Peserta PKL
+### 2. Panduan Peserta PKL
 
 #### A. Presensi Masuk (Check-in)
 1. Pastikan **GPS aktif** dan Anda berada di area kantor DISKOMINFO.
@@ -58,7 +58,7 @@
 
 ---
 
-### 👨‍💼 3. Panduan Pembimbing Lapangan
+### 3. Panduan Pembimbing Lapangan
 
 #### A. Pantau Kehadiran Anak Bimbingan
 - Di tab **Dashboard**, pantau ringkasan statistik kehadiran hari ini (*Hadir*, *Izin*, *Sakit*, *Belum Presensi*) khusus peserta yang Anda bimbing.
@@ -74,7 +74,7 @@
 
 ---
 
-### ⚙️ 4. Panduan Administrator DISKOMINFO
+### 4. Panduan Administrator DISKOMINFO
 
 #### A. Kelola Peserta PKL
 - Buka tab **Kelola Peserta**.
